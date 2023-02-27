@@ -4,8 +4,6 @@
 * Doesn't collect user data
 * Run without internet
 
-[Facebook Page](https://www.facebook.com/people/PeterSoftware/100090301823088/)
-
 ## AzureNum
 
 ![Logo](Azure/AzureNumLogo.png)

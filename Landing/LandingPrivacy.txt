@@ -14,4 +14,4 @@ Landing is a offline software, doesn't have any Ads and doesn't collect any user
 Using Landing doesn't require any sensitive permissions (camera, microphone, photo gallery, address book, etc.).
 
 日期：2023年 1月 21号
-Date: Jan 21 2022
+Date: Jan 21 2023
